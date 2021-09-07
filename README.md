@@ -24,17 +24,9 @@ Users should be able to:
  hove links and button
 
 ### Screenshots
-Desktop View
+Screen Shot
 
-![Desktop View](https://github.com/NyiZinThant/statspreviewcard/blob/main/design/desktopss.png?raw=true)
-
-Tablet View
-
-![Tablet View](https://github.com/NyiZinThant/statspreviewcard/blob/main/design/phoness.png?raw=true)
-
-Mobile View
-
-![Mobile View](https://github.com/NyiZinThant/statspreviewcard/blob/main/design/phoness.png?raw=true)
+![screen shot](https://raw.githubusercontent.com/NyiZinThant/order-summary-card/main/screenbud-40c4e71e-fa7b-487e-b970-6df2849fdcc4.png)
 
 ### Links
 
